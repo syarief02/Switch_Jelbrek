@@ -3,6 +3,10 @@
 hekate issues:
 https://github.com/CTCaer/hekate/issues/1086#issue-3038243199
 
+CTCaer says:
+> This is a testing archive that can be paired with atmosphere 1.9.0 testing one (20.0.0 support). If you don't know what you are doing, it's generally better to wait for the proper releases.
+
+
 atmosphere issues:
 https://github.com/Atmosphere-NX/Atmosphere/issues/2502#issuecomment-2849410425
 
